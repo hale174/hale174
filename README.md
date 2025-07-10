@@ -6,7 +6,7 @@
 
 👾 **Coding Languages:** Python, Java, C#
 
-🎤 **Human Languages:** English (Proficient), Vietnamese (Native), Mandarin (Learning), Korean (Learning)
+🎤 **Human Languages:** English (Native), Vietnamese (Native), Mandarin (Learning), Korean (Learning)
 
 🌱 **Skills:** Project Management, Strategic Planning, Video Editing
 
