@@ -8,7 +8,7 @@
 
 🎤 **Human Languages:** English (Native), Vietnamese (Native), Mandarin (Learning), Korean (Learning)
 
-🌱 **Skills:** Project Management, Strategic Planning, Video Editing
+🌱 **Skills:** Project Management, Strategic Planning, Design, Video Editing
 
 🏫 **Organizations:**
 - [Harvard WECode (Women Engineers Code) 👩‍💻](https://www.wecodeconference.com/) - Co-Director of Marketing & Strategy
